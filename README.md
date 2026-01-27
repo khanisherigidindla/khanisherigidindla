@@ -1,77 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a CSE graduate with hands-on experience building full-stack web applications, covering frontend interfaces, backend services, APIs, and databases.
 
-I work across the stack — from creating responsive user interfaces to designing backend logic and integrating AI-driven components. My projects focus on end-to-end functionality, clean code, and practical problem solving rather than isolated features.
-
-I’m actively seeking entry-level Full-Stack / Software Developer roles, where I can contribute across the stack and grow as a well-rounded engineer.
-<br>
-Interested in Full Stack Development, APIs, and AI Projects
-<br>
-Always learning and building <br><br>
-<br>
-Open to Work in Dynamic Solutions 
-
-🧩 What I Do Across the Stack
-
-Frontend
-
-Build responsive, user-friendly interfaces using modern HTML, CSS, JavaScript, and frameworks
-
-Focus on usability, clean layouts, and smooth data flow between UI and backend
-
-Backend
-
-Develop REST APIs, business logic, and authentication flows using Python frameworks
-
-Design and manage relational and NoSQL databases
-
-Integration
-
-Connect frontend and backend with secure, well-structured APIs
-
-Integrate AI/NLP features into real applications
-
-🚀 Selected Projects
-
-AI-Powered Interview Bot
-→ Full-stack application with frontend UI, backend services, NLP-based evaluation, and database integration
-
-E-commerce Application
-→ Backend-driven automation with APIs, data processing, and system coordination
-
-(Each project is built end-to-end, not just isolated components.)
-
-🎯 What I’m Actively Improving
-
-Advanced frontend patterns and state handling
-
-Backend performance, validation, and error handling
-
-Writing maintainable, scalable full-stack code
-
-Strengthening CS fundamentals and system understanding
-
-🛠 Engineering Mindset
-
-Think in systems, not just pages or APIs
-
-Balance UI quality with backend reliability
-
-Prefer clarity, maintainability, and real-world usability
-
-Learn by building, breaking, and improving
-
-🌱 Areas of Interest
-
-Full-Stack Web Development
-
-Frontend-Backend Integration
-
-REST APIs & Application Architecture
-
-AI-powered Web Applications
+Aspiring Software Developer | Full Stack Developer | Python | React.js |JavaScript | HTML | CSS | AI | MySQL | Node.js | Git | GitHub | Numpy | Pandas | Django | Web Development | OOPS | Immediate Joiner |
 
 🤝 Open To
 
