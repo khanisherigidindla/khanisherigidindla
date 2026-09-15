@@ -2,24 +2,24 @@
 
 # 💫 Know  Me:
 
-Aspiring Software Developer | Full Stack Developer | Python | React.js |JavaScript | HTML | CSS | AI | MySQL | Node.js | Git | GitHub | Numpy | Pandas | Django | Web Development | OOPS | Immediate Joiner |
+Full Stack Engineer | Python |Java | React.js |JavaScript | Express | HTML | CSS | AI | MySQL | NOSQL | Node.js | Git | GitHub | Numpy | Pandas | Django | Web Development | OOPS | Immediate Joiner |
 
-🤝 Open To : 
+🤝 Open To contribute for freelancing services : 
 
-Full-Stack / Software Developer roles
+Full-Stack Projects / Software Developer roles
 
 Frontend or Backend-heavy full-stack work
 
 Open-source collaboration
 
-Startup or product-based engineering teams
+Free Lancing services available.
 
 
 
 
 ## 🌐 Connect with me :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vip_khanish_ram/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khanish_tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanish-erigidindla-00a327328/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanishram00@gmail.com)
 
