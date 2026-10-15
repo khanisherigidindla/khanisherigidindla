@@ -1,57 +1,61 @@
 # Hie  I'm Khanish Erigidindla  👋
 
 
-Full Stack Engineer | Software Developer | Tech Creator | 
+### Full Stack Engineer  | Software Developer | Tech Creator
 
-I'm a Full Stack Engineer, building web applications and working across modern frontend and backend technologies. 
-I have previous experience as a Backend Developer Intern, where I worked with the MERN stack, API development and blockchain-related technologies.
+I build web applications, develop software solutions and explore the intersection of web development, AI and emerging technologies.
 
-I enjoy building practical software solutions, exploring new technologies and creating projects that solve real-world problems.
+Currently working as a Full Stack Engineer at NMK Global, with previous experience as a Backend Developer Intern working with the MERN stack, API development, and blockchain-related technologies.
 
-💼 Professional Experience : 
+My approach: Build with purpose. Write maintainable code. Keep learning.
 
-Full Stack Engineer — NMK Global
+---
 
-Working across frontend development and full-stack application features.
+### ⌘ Engineering Profile
 
-Building web interfaces and integrating APIs with backend services.
+| | |
+|:--|:--|
+| ◉ Current Role | Full Stack Engineer — NMK Global |
+| ◇ Previous Experience | Backend Developer Intern — Koundinyasa Technology |
+| ⌘ Primary Focus | Full Stack & Web Application Development |
+| ⟡ Exploring | AI-powered applications, cloud technologies & blockchain |
 
-Working with modern frameworks, databases and cloud technologies.
+---
+
+### ⬡ Technologies I Work With
+
+**01 — Frontend Engineering**
+
+`React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bootstrap`
+
+**02 — Backend Engineering**
+
+`Python` `Django` `Flask` `Node.js` `Express.js` `Java` `REST APIs`
+
+**03 — Data & Storage**
+
+`MySQL` `PostgreSQL` `MongoDB`
+
+**04 — Cloud & Developer Tools**
+
+`AWS` `Vercel` `Git` `GitHub` `Figma`
+
+**05 — Libraries & Data Tools**
+
+`Axios` `Framer Motion` `Lucide React` `NumPy` `Pandas` `SciPy`
+
+---
+
+### ⟁ What I'm Building
+
+- **Full Stack Applications** — Responsive user interfaces, API integrations, and database-driven features.
+- **AI-Powered Projects** — Practical applications using modern AI tools and APIs.
+- **Creative Coding** — Interactive web experiences and projects that make technology fun to explore.
+- **Developer Projects** — Experiments focused on learning, problem-solving, and writing better code.
 
 
-Backend Developer Intern — Koundinyasa Technology
 
-Developed and integrated REST APIs using Node.js and Express.js.
-
-Worked with MongoDB, API validation, authentication and role-based access control.
-
-Gained exposure to transaction workflows and blockchain-related technologies.
-
-
-🛠️ Tech Stack
-
-Frontend Development
-
-React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
-
-Backend Development
-
-Python · Django · Flask · Node.js · Express.js · Java · REST APIs
-
-Databases
-
-MySQL · PostgreSQL · MongoDB
-
-Cloud & Deployment
-
-AWS · Vercel · Git · GitHub
-
-Data & AI : 
-
-NumPy · Pandas · SciPy · Generative AI tools
-
-
-🚀 Featured Projects
+🚀  Projects
 
 AI-Powered Applications — Exploring AI integrations and intelligent application workflows.
 
